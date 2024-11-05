@@ -7,7 +7,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1.5rem;
+    gap: 1rem;
     padding-top: 5rem;
     background-color: var(--claro);
     border-radius: 1.5rem;
@@ -20,7 +20,7 @@ main {
 
 .conteudo img {
     border-radius: 1.5rem;
-    width: 100rem;
+    width: 110rem;
     height: 50rem;
     
 }
