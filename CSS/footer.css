@@ -5,10 +5,10 @@
     background-color: black;
 }
 
-/* ****************** responsividade 450px ***********************
+/* ****************** responsividade 450px *********************** */
 
 @media (max-width: 450px) {
     .footer{
         width: 100%;
     }
-} */
+}
