@@ -35,9 +35,9 @@ nav>a {
     font-size: 1.6rem;
 }
 
-/* ****************** responsividade 400px *********************** */
+/* ****************** responsividade 450px *********************** */
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
 
     header{
         width: 100%;
